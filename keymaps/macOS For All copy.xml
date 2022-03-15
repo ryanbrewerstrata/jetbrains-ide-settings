@@ -1,0 +1,32 @@
+<keymap version="1" name="macOS For All copy" parent="macOS For All">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
+  <action id="CloseContent" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark9" />
+  <action id="Images.Thumbnails.Hide" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+  <action id="ToggleBookmark4" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift ctrl 4" />
+  </action>
+</keymap>
