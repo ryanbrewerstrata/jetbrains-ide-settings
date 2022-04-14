@@ -1,0 +1,23 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-04-14T08:50:53</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2021.3.2.0.0</property>
+    <property name="modified">2022-04-14T14:23:43</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3993d4" />
+        <option name="BACKGROUND" value="3993d4" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5c962c" />
+        <option name="BACKGROUND" value="5c962c" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
