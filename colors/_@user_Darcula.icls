@@ -1,0 +1,32 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-04-19T10:30:42</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2021.3.2.0.0</property>
+    <property name="modified">2022-04-19T13:54:36</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <attributes>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3993d4" />
+        <option name="BACKGROUND" value="3993d4" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e5bf00" />
+        <option name="BACKGROUND" value="e5bf00" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a68a0d" />
+        <option name="BACKGROUND" value="a68a0d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
