@@ -4,6 +4,9 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </JSCodeStyleSettings>
+  <Python>
+    <option name="USE_CONTINUATION_INDENT_FOR_PARAMETERS" value="false" />
+  </Python>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />

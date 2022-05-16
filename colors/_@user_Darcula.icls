@@ -1,10 +1,10 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-04-14T08:50:53</property>
-    <property name="ide">WebStorm</property>
+    <property name="created">2022-04-19T10:30:42</property>
+    <property name="ide">Python</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-04-14T15:25:18</property>
+    <property name="modified">2022-04-19T13:54:36</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -14,12 +14,6 @@
       <value>
         <option name="FOREGROUND" value="3993d4" />
         <option name="BACKGROUND" value="3993d4" />
-      </value>
-    </option>
-    <option name="CONSOLE_GREEN_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="5c962c" />
-        <option name="BACKGROUND" value="5c962c" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
