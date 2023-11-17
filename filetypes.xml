@@ -7,8 +7,8 @@
       <mapping pattern="encounter_mart_tags" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern="downstream_datawrangler" type="PLAIN_TEXT" />
+      <mapping ext="yaml" type="YAML" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
-      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
