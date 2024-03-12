@@ -7,7 +7,6 @@
       <mapping pattern="encounter_mart_tags" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern="downstream_datawrangler" type="PLAIN_TEXT" />
-      <mapping ext="sql" type="SQL" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
