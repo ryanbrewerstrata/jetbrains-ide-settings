@@ -5,6 +5,7 @@
       <mapping pattern="encounter_mart_datawrangler_process" type="AUTO_DETECTED" />
       <mapping ext="flow" type="Flow" />
       <mapping pattern="encounter_mart_tags" type="PLAIN_TEXT" />
+      <mapping pattern=".sqlfluff" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern="downstream_datawrangler" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
